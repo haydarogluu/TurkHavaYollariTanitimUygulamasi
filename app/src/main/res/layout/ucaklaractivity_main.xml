@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="#C80909"
+                android:paddingLeft="-74dp"
+                app:title="          UÇAKLAR"
+                app:navigationIcon="@drawable/icon"
+                app:titleTextColor="@color/white">
+            </androidx.appcompat.widget.Toolbar>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="  BOEING 777-300er, BOEING 777F"
+                android:textSize="15dp"
+                android:textStyle="bold">
+            </TextView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="247dp"
+                android:src="@drawable/b777">
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  BOEING 787-9 Dremliner"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_marginTop="1dp"
+                >
+            </TextView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="223dp"
+                android:src="@drawable/thy787"
+                android:layout_marginTop="15dp"
+                >
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  BOEING 737-800, BOEING 737-900, BOEING 737Max"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:layout_marginTop="15dp"
+                >
+            </TextView>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="251dp"
+                android:src="@drawable/b737">
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  AIRBUS A350-900, AIRBUS A350-1000"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                >
+            </TextView>
+
+            <ImageView
+                android:layout_width="415dp"
+                android:layout_height="245dp"
+                android:src="@drawable/a350">
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  AIRBUS A330-300, AIRBUS A330-200, AIRBUS A330F"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                >
+            </TextView>
+
+            <ImageView
+                android:layout_width="415dp"
+                android:layout_height="229dp"
+                android:src="@drawable/a330">
+            </ImageView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  AIRBUS A319, AIRBUS A320, AIRBUS A321Neo"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                >
+            </TextView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="222dp"
+                android:src="@drawable/a321">
+            </ImageView>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

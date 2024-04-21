@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TurkHavaYollariTanitimUygulamasi</string>
+    <string name="title_activity_ucaklar">UcaklarActivity</string>
+    <string name="title_activity_tarihce">TarihceActivity</string>
+    <string name="tarihce">"20 Mayıs 1933 tarihli 2186 sayılı kanunla kurulan ve ilk adı Havayolları Devlet İşletme İdaresi olan Türk Hava Yolları, 1935 yılına kadar Millî Savunma Bakanlığı'na bağlı kaldıktan sonra 2744 sayılı kanunla, Bayındırlık Bakanlığı'na bağlanmıştır. 5 uçak ve 23 koltuk kapasitesi ile Ağustos 1933 tarihinde operasyona başlamıştır. İlk uçağı Amerikan Curtiss imalatı 208 seri numaralı Kelebek adı verilen King Bird D-2 uçağı idi. Tanesi 25.555 dolara satın alınan çift motorlu uçak, sadece beş yolcu taşıyabiliyordu. Uçağın ilk seferi 3 Şubat 1933'te İstanbul’dan Eskişehir aktarmalı Ankara uçuşu olmuştur. King Bird D-2’ler yerini İngiliz De Havilland imalatı DH.89A Dragon Rapide (1936) ve DH.86B Dragon Express’lere (1937) bırakmıştır. Türk Hava Yolları, Türkiye'nin ulusal, bayrak taşıyıcı hava yolu şirketidir. Merkezi İstanbul'da bulunan şirketin uçuş ağı Avrupa, Orta Doğu, Uzak Doğu, Kuzey Afrika, Orta Afrika, Güney Afrika, Kuzey ve Güney Amerika'ya kadar uzanmaktadır. 2015 yılında 61,2 milyon, 2018 yılında 75,2 milyon, 2019 yılında 74,3 milyon, 2020 yılında 28,0 milyon, 2021 yılında 44,8 milyon yolcu taşımıştır.
+
+Amerikalı havacılık derecelendirme kurumu AviRate tarafından 2018 yılında verilen 5 yıldızlı küresel hava yolu ödülünü günümüze kadar taşımakta.
+
+Skytrax'ın 2016 ödüllerine göre arka arkaya 6. kez Avrupa'nın en iyi hava yolu seçilmiştir. Ayrıca pek çok alanda yüksek dereceler elde etmiştir. Star Alliance üyesi Türk Hava Yolları; 127 ülkede, 53'ü iç hat, 287'si dış hat olmak üzere 335 şehir ve 340 havaalanına uçmaktadır. Bu geniş uçuş ağı sayesinde dünyanın en çok ülkesine sefer düzenleyen havayolu unvanına sahiptir.
+
+Ayrıca Türk Hava Yolları'nın, Antalya merkezli SunExpress hava yolunda Lufthansa ile %50-%50 ortaklığı, Saraybosna merkezli BH hava yollarında %49 ortaklığı ve Tiran merkezli Air Albania'da ise %49,12 ortaklığı vardır. Ankara merkezli AnadoluJet hava yolu markasının da sahibidir. Türk Hava Yolları ilk hava yolu ittifakı tecrübesini, 1990'lı yılların ikinci yarısında yaşamıştır. O yıllarda Swiss Air'in başını çekmekte olduğu Qualiflyer grubuna 31 Mart 1998 tarihinde üye olmuştur.
+
+Bu kapsamda, Türk Hava Yolları'nın 1989 yılından beri sürdürmekte olduğu 'Sık Uçan Yolcu Programı' (Frequent Flyer), Qualiflyer ile birleştirilmiştir.
+
+Ancak bu ittifak denemesi hedeflendiği gibi gitmemiş, Türk Hava Yolları 2000 yılında gruptan ayrılmıştır.
+
+Bu gelişmenin ardından, Türk Hava Yolları sık uçan yolcu programı yeniden yapılandırılmış ve yoluna 'MilesSmiles' adı altında devam etmiştir.
+
+Türk Hava Yolları'nın ikinci ittifak denemesi ise, ilkinden tam 10 yıl sonra gerçekleşmiş ve 1 Nisan 2008 tarihinde İstanbul'da imzalanan anlaşma ile şirket bu kez, Lufthansa'nın başını çektiği (SA) Star Alliance'a üye olmuştur.
+
+"</string>
+    <string name="title_activity_sehirler">sehirlerActivity</string>
+    <string name="title_activity_turkiye">turkiyeActivity</string>
+    <string name="title_activity_almanya">almanyaActivity</string>
+</resources>
